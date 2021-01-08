@@ -1,0 +1,111 @@
+html {
+	scroll-behavior: smooth;
+}
+
+.my_nav_bar {
+	position: sticky;
+	top: 0;
+	z-index: 99999
+}
+
+#video {
+	width: 1365px;
+	height: 800px;
+}
+
+body {
+	background-color: lightblue;
+}
+
+i {
+	color: black;
+}
+
+my_Navbar {
+	position: sticky;
+}
+
+.c {
+	text-align: center;
+}
+
+.row::after {
+	content: "";
+	clear: both;
+	display: table;
+}
+
+.travel_main_Div {
+	float: left;
+	width: 33.33%;
+	padding: 5px;
+	border: 1px solid #c7c7c7;
+}
+
+
+.travel_mainDiv hr {
+	width: 100%
+}
+
+.travel_mainDiv h5,
+.travel_mainDiv p {
+	margin-left: 20px;
+}
+
+p {
+	font-family: 'Architects Daughter', cursive;
+	color: black;
+	font-size: 18px;
+}
+
+h2 {
+	font-family: 'Euphoria Script', cursive;
+	text-align: center;
+	font-size: 40px;
+	text-shadow: 2px 2px orange;
+}
+
+#myNavbar a {
+	font-family: 'Special Elite', cursive;
+}
+
+.navbar-brand {
+	font-family: 'Special Elite', cursive;
+}
+
+#achievementsID {
+	padding-bottom: 10px;
+}
+
+.movie_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	width: 100%;
+	display: inline-block;
+}
+
+.movie_head i {
+	float: right;
+}
+
+#school_achievement2 img {
+	width: 233px;
+	height: 233px;
+}
+
+#footer {
+	height: 20px;
+	background-color: white;
+}
+
+.modal {
+	text-align: center;
+	padding-top: 50px;
+}
+
+
+#alumniList img {
+	border-radius: 60px;
+}
